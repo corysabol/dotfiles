@@ -4,13 +4,13 @@
 ### Files and Programs
 [pywal](https://github.com/dylanaraps/pywal)
 
-i3-gaps : `config`   -> ~/.i3/config`
+i3-gaps : `config`   -> `~/.i3/config`
 
-neovim  : `init.vim` -> ~/.config/nvim/init.vim`
+neovim  : `init.vim` -> `~/.config/nvim/init.vim`
           
-bashrc  : `.bashrc`  -> ~/.bashrc`
+bashrc  : `.bashrc`  -> `~/.bashrc`
           
-xinitrc : `.xinitrc` -> ~/.xinitrc`
+xinitrc : `.xinitrc` -> `~/.xinitrc`
           
 dmenu   : https://tools.suckless.org/dmenu/
           
