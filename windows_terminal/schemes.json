@@ -1,0 +1,28 @@
+{
+  "schemes": 
+    [
+        {
+            "background": "#0F0F0F",
+            "black": "#1B1B1B",
+            "blue": "#3DD6FF",
+            "brightBlack": "#4D4D4D",
+            "brightBlue": "#8FC7ED",
+            "brightCyan": "#AFFEFF",
+            "brightGreen": "#7FF600",
+            "brightPurple": "#FF78C3",
+            "brightRed": "#FF6E6E",
+            "brightWhite": "#FFFFFF",
+            "brightYellow": "#FFFFA5",
+            "cursorColor": "#FFFFFF",
+            "cyan": "#89DDFF",
+            "foreground": "#FFFFFF",
+            "green": "#27F500",
+            "name": "Oxocarbon",
+            "purple": "#FF007C",
+            "red": "#FF5C57",
+            "selectionBackground": "#FFFFFF",
+            "white": "#F8F8F2",
+            "yellow": "#F3F99D"
+        }
+    ]
+}
